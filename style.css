@@ -1,0 +1,28 @@
+h1{
+    
+    background-color: lightgrey;
+    width: 110px;
+    border: 7px solid rgb(19, 19, 19);
+    padding: 10px;
+    margin: 5px;
+    
+}
+
+.filho{
+
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    border: 7px solid rgba(0, 0, 0, 0.901);
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.filho2{
+
+    background-color: rgb(201, 201, 201);
+    width: px;
+    border: 7px solid rgba(0, 0, 0, 0.901);
+    padding: 10px;
+    margin: 10px;
+}
